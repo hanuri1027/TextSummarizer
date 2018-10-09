@@ -8,3 +8,6 @@ python3.5<br>
 Konlpy<br>
 customized_konlpy<br>
 networkx<br>
+
+# Algorithm flow
+![flow1](https://user-images.githubusercontent.com/43260218/46671897-f95d8980-cc10-11e8-9e17-ba0ac6335ece.PNG)
