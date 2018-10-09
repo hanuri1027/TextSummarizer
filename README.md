@@ -11,7 +11,7 @@ networkx<br>
 
 # Algorithm flow
 
-![flow1](https://user-images.githubusercontent.com/43260218/46671897-f95d8980-cc10-11e8-9e17-ba0ac6335ece.PNG =100x100)
+![flow1](https://user-images.githubusercontent.com/43260218/46671897-f95d8980-cc10-11e8-9e17-ba0ac6335ece.PNG=100x100)
 
 ![flow2](https://user-images.githubusercontent.com/43260218/46671945-1b570c00-cc11-11e8-8cf8-b61c10381d12.PNG)
 ![flow3](https://user-images.githubusercontent.com/43260218/46671947-1c883900-cc11-11e8-824f-01673bc67dc1.PNG)
