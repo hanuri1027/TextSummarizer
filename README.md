@@ -22,7 +22,7 @@ networkx<br>
 
 # Usage
 
-sent라는 변수에 텍스트 원문(ex 1400자 영화리뷰)을 입력하고 word+summary.ipynb 파일을 돌리면<br>
+sent라는 변수에 텍스트 원문([ex 1400자 영화리뷰](https://blog.naver.com/nachthimmel/221326960131))을 입력하고 word+summary.ipynb 파일을 돌리면<br>
 1. 핵심단어<br>
 ‘로맨틱 코미디’, ‘영화 주인공’, ‘달리 신선’, ‘여주’, ‘설정’, ‘무슬림’, ‘생활’, ‘결혼’, ‘포스터’, ‘갈등’, ‘없다’
 2. 요약문<br>
