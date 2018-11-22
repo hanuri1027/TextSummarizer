@@ -18,7 +18,8 @@ networkx<br>
 
 # Algorithm flow
 
-![flow1](https://user-images.githubusercontent.com/43260218/46671897-f95d8980-cc10-11e8-9e17-ba0ac6335ece.PNG)
+![1](https://user-images.githubusercontent.com/43260218/48891119-f1367200-ee7d-11e8-8d43-c62cb6bbe36a.png)
+
 
 # Usage
 sent라는 변수에 텍스트 원문([ex 1513자 영화리뷰](https://blog.naver.com/nachthimmel/221326960131))을 입력하고 word+summary2(UPdate).ipynb 파일을 돌리면<br>
